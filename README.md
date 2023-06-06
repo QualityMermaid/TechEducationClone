@@ -1,13 +1,15 @@
 # reading-notes-102d5 - Page being updated during course 5th June 2023
 
-**Document Content**
+# Table of Contents
 
-- Introduction
-- About
-- Growth Mindset
-- newPages
+1. [Introduction](#introduction)
+2. [About](#about)
+3. [Growth Mindset](#growth-mindset)
+4. [102](102)
+5. [201](201)
+6. [301](301)
 
-## Introduction
+# Introduction
 
 ***Hello*** my name is Jessica! Feel free to call me Jess/Jessica I do not mind which and my pronouns are she/her.
 I have over 10 years of Quality/Testing experience working with embedded devices as well as web.

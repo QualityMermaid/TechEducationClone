@@ -7,7 +7,7 @@
 * [102](/102/102Course)
 * [201](/201/201Course)
 * [301](/301/301Course)
-* [Useful Information](/Useful-Information)
+* [Useful Information](/UsefulInformation)
 
 # Introduction
 

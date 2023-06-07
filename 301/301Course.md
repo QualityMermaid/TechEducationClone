@@ -1,4 +1,4 @@
-# Title Page for 102 Course
+# Title Page for 301 Course
 Please select the Class below for notes
 ## Table of Contents
 
@@ -10,3 +10,10 @@ Please select the Class below for notes
 [Class 06](Class06.md)  
 [Class 07](Class07.md)  
 [Class 08](Class08.md)  
+[Class 09](Class09.md)  
+[Class 10](Class10.md)  
+[Class 11](Class11.md)  
+[Class 12](Class12.md)  
+[Class 13](Class13.md)  
+[Class 14](Class14.md)  
+[Class 15](Class15.md)  

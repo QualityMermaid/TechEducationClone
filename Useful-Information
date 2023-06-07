@@ -34,6 +34,10 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - git add . (stages the enviroment)
 - git commit -m "XXX"(add a message in the XXX for why you are commiting the code)
 - git push (pushes my local code in git into github which is remote)
+- command+c (with curser at the end of the line will copy whole line)
+- command+v (with curser at the end of the line paste in new line)
+
+
 
 #### Extentions
 - Better Comments
@@ -45,3 +49,7 @@ Here is a list on commands and other cheats we learned and I can access easily h
 - Prettier - Code Formatter
 - Thunder Client
 - vscode-icons
+
+## html
+
+- / (takes your to home. useful when linking files)

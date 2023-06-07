@@ -4,9 +4,9 @@
 
 * [Introduction](#introduction)
 * [About](#about)
-* [102](/102/102Course.md)
-* [201](/201/201Course.md)
-* [301](/301/301Course.md)
+* [102](/102/102Course)
+* [201](/201/201Course)
+* [301](/301/301Course)
 * [Useful Information](useful-information)
 
 # Introduction

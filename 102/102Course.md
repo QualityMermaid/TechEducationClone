@@ -2,11 +2,11 @@
 Please select the Class below for notes
 ## Table of Contents
 
-[Class 01: Markdown and Growth Mindset](Class01.md)  
-[Class 02: The Coder's Computer](Class02.md)  
-[Class 03: Revisions and the Cloud](Class03.md)  
-[Class 04: Structure web pages with HTML](Class04.md)  
-[Class 05: ](Class05.md)  
-[Class 06: ](Class06.md)  
-[Class 07: ](Class07.md)  
-[Class 08: ](Class08.md)  
+[Class 01: Markdown and Growth Mindset](/102/Class01)  
+[Class 02: The Coder's Computer](/102/Class02)  
+[Class 03: Revisions and the Cloud](/102/Class03)  
+[Class 04: Structure web pages with HTML](/102/Class04)  
+[Class 05: ](/102/Class05)  
+[Class 06: ](/102/Class06)  
+[Class 07: ](/102/Class07)  
+[Class 08: ](/102/Class08)  

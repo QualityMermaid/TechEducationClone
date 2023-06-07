@@ -7,9 +7,9 @@ Here is a link to the page I am currently playing with. Click [HERE](https://qua
 > Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.
 "an HTML file"
 2. What are the 3 main parts of an HTML element?
-> Header   
-Main   
-Footer
+> The opening tag (or start tag) marks where the element’s content begins.  
+The closing tag (or end tag) marks the end of the element’s content . The closing tag is identical to the opening tag with the addition of a forward slash (/) after the first angle bracket.  
+The content is placed between the element’s opening and closing tags.
 3. What is it called when you give an element extra information?
 > An element is a part of a webpage. In XML and HTML, an element may contain a data item or a chunk of text or an image, or perhaps nothing. A typical element includes an opening tag with some attributes, enclosed text content, and a closing tag.
 4. What is a semantic element?

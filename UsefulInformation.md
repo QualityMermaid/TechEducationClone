@@ -27,6 +27,11 @@ Here is a list on commands and other cheats we learned and I can access easily h
 
 ## VSCode 
 
+####
+- adding comments in css on mac can use command+/
+  <!-- - this wont be shown as its a comment -->
+  - depending on what file type your using it will auto change the syntax for you!
+
 #### Commands for terminal
 - ! (when using a blank html file can use ! to autofill in VSCode
 - command+s (saves file. if the circle is white it means its not saved!)
@@ -53,3 +58,7 @@ Here is a list on commands and other cheats we learned and I can access easily h
 ## html
 
 - / (takes your to home. useful when linking files)
+
+## Links
+
+[w3schools](https://www.w3schools.com/html/) - useful information for html and CSS

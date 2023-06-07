@@ -1,4 +1,7 @@
-# Warning: Pages are constantly being updated during course 5th June till 11th August 2023. If you see any mistakes or can offer suggestions to improve please let me know.
+# My notes during TechEducator course
+
+> **Warning:** 
+> Pages are constantly being updated during course 5th June till 11th August 2023. If you see any mistakes or can offer suggestions to improve please let me know.
 
 # Table of Contents
 

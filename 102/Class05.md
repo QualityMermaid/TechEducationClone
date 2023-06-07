@@ -10,14 +10,22 @@
       - useful if you wanted to change ONE different header for instance as it will take priortiy over the .css file
 - .css is a cascading page and will read top to bottom
 - there is a point system for which style will take priorty!!!
+- can inspect webpage to show the Elements (pn webpage right click and at the bottome select Inspect)
+   - element > padding > border > margin
 
 
-## syntax
+## Syntax
 - h1 (type selecter) will change style to all h1 (same for other h2, h3)
 - color is a property which we can then add value eg. blue (can use font-size and loads of other different things)
 - sizing can be done in different measurements! including % of a page
 - '*' is a universal selecter and will select EVERYTHING (mostly)
 - .XXX (class selecter) whatever has that class name will have this style attached to it
+- use > to target a child eg nav > ul will target all ul's in nav
+- most populare properties are (can be done in the .css and add it to body{} for it to target everything in the body)
+  - font-family:
+  - 
+- create a reset.css useful for trouble shooting and to work off a blank canvas removing the inbuilt page styles. can populate the file from [HERE](https://meyerweb.com/eric/tools/css/reset/)
+   - make sure to add it BEFORE anyother style
 
 
 ## Q&A

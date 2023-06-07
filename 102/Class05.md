@@ -29,3 +29,14 @@
 
 
 ## Q&A
+1. What is the purpose of CSS?
+> To create a read sheet of styles that the browser will use to format the html documents. All informtion should be in the style sheet but some browsers have their own built in so you can create a reset.css file to overwrite this.
+2. What are the three ways to insert CSS into your project?
+> 1. External CSS
+> 2. Internal CSS
+> 3. Inline CSS
+3. Write an example of a CSS rule that would give all 'p' elements red text.
+> in the css file create  
+p {
+    color: red;
+}

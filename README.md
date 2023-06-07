@@ -2,12 +2,12 @@
 
 # Table of Contents
 
-1. [Introduction](#introduction)
-2. [About](#about)
-4. [102](/102/102Course.md)
-5. [201](/201/201Course.md)
-6. [301](/01/301Course.md)
-7. [Useful Information](useful-information)
+* [Introduction](#introduction)
+* [About](#about)
+* [102](102/102Course.md)
+* [201](201/201Course.md)
+* [301](301/301Course.md)
+* [Useful Information](useful-information)
 
 # Introduction
 

@@ -98,3 +98,14 @@ What is a variable? In programming, a variable is a value that can change, depen
 > const welcomeMsg = alert("Welcome to my page " + userName)
 
 > document.write()
+
+
+# Q&A
+1. What are variables in JavaScript?
+> In programming, a variable is a value that can change, depending on conditions or on information passed to the program.
+2. What does it mean to declare a variable?
+> Declaration of a variable in a computer programming language is a statement used to specify the variable name and its data type. Declaration tells the compiler about the existence of an entity in the program and its location. When you declare a variable, you should also initialize it.
+3. What is an “assignment” operator, and what does it do?
+> The assignment operator = assigns the value of its right-hand operand to a variable, a property, or an indexer element given by its left-hand operand. The result of an assignment expression is the value assigned to the left-hand operand.
+4. What is information received from the user called?
+> we use the prompt() function to ask the user for input. As a parameter, we input the text we want to display to the user. Once the user presses “ok,” the input value is returned. We typically store user input in a variable so that we can use the information in our program.

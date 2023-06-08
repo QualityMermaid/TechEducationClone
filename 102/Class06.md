@@ -1,6 +1,8 @@
 # JavaScritp
 Java is NOT JavaScript
 
+for my working page go [here](https://qualitymermaid.github.io/html-demo/)
+
 ## Notes
 what makes our page dynamic:
 html is sctucture

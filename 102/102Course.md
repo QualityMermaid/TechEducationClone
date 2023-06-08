@@ -2,7 +2,7 @@
 Please select the Class below for notes
 ## Table of Contents
 
-[Class 01: Markdown and Growth Mindset](https://qualitymermaid.github.io/TechEducationClone/102/Class01.md)  
+[Class 01: Markdown and Growth Mindset](Class01.md)  
 [Class 02: The Coder's Computer](https://qualitymermaid.github.io/TechEducationClone/102/Class02.md)  
 [Class 03: Revisions and the Cloud](https://qualitymermaid.github.io/TechEducationClone/102/Class03.md)  
 [Class 04: Structure web pages with HTML](https://qualitymermaid.github.io/TechEducationClone/102/Class04.md)  

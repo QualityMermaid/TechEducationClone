@@ -5,12 +5,17 @@
 
 # Table of Contents
 
-* [Introduction](#introduction)
 * [About](#about)
+* [Introduction](#introduction)
 * [102](/102/102Course.md)
 * [201](/201/201Course.md)
 * [301](/301/301Course.md)
 * [Useful Information](/UsefulInformation.md)
+
+# About
+
+This page is for my notes during Tech Course 5th June 2023.
+Link to live page [HERE](https://qualitymermaid.github.io/TechEducationClone/) for the GitHub repo click [HERE](https://github.com/QualityMermaid/TechEducationClone)
 
 # Introduction
 
@@ -30,11 +35,6 @@ When I am not at work you will find me:
 Github: [QualityMermaid](https://github.com/QualityMermaid)  
 Twitter: [@OpheraBane](https://twitter.com/OpheraBane)  
 LinkedIn: [JessicaBane](https://www.linkedin.com/in/jessica-bane-testing-mermaid/)
-
-# About
-
-This page is for my notes during Tech Course 5th June 2023.
-Link to live page [HERE](https://qualitymermaid.github.io/TechEducationClone/)
 
 ## Final thoughts
 

@@ -109,3 +109,6 @@ What is a variable? In programming, a variable is a value that can change, depen
 > The assignment operator = assigns the value of its right-hand operand to a variable, a property, or an indexer element given by its left-hand operand. The result of an assignment expression is the value assigned to the left-hand operand.
 4. What is information received from the user called?
 > we use the prompt() function to ask the user for input. As a parameter, we input the text we want to display to the user. Once the user presses “ok,” the input value is returned. We typically store user input in a variable so that we can use the information in our program.
+
+# Links
+[js Functions](https://www.w3schools.com/js/js_functions.asp)

@@ -2,6 +2,8 @@
 
 Link to live page where Functions are being used [HERE](https://qualitymermaid.github.io/html-demo/links.html)
 
+
+
 ## Q&A
 1. What is control flow?
 > Control flow in JavaScript is how your computer runs code from top to bottom. It starts from the first line and ends at the last line, unless it hits any statement that changes the control flow of the program such as loops, conditionals, or functions.
